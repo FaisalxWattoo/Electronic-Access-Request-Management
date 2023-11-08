@@ -65,5 +65,5 @@ Bucketing: Bucketing, on the other hand, involves dividing data into fixed-size 
 
 By carefully implementing partitioning and bucketing, we achieved substantial improvements in query performance. These optimizations were particularly crucial when dealing with large volumes of data, as they reduced query execution times and resource consumption.
 
-Conclusion
+Conclusion:
 The Electronic Access Request Management project exemplified the power of data processing technologies and methodologies in optimizing critical business processes. Through the development of ETL pipelines, enhancement of the Spark Dataframe API, creation of a Rule Ingestion Alarm
